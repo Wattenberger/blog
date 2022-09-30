@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "d3": "^5.9.2",
+    "d3": "^7.6.1",
     "intersection-observer": "^0.7.0",
     "node-sass": "^4.12.0",
     "prismjs": "^1.16.0",
